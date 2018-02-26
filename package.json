@@ -1,0 +1,24 @@
+{
+  "name": "nodeweatherapp",
+  "version": "1.0.0",
+  "description": "practice with calling API and using node",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorazero/nodeWeatherApp.git"
+  },
+  "author": "Daniel Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majorazero/nodeWeatherApp/issues"
+  },
+  "homepage": "https://github.com/majorazero/nodeWeatherApp#readme"
+}
